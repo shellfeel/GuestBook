@@ -1,7 +1,7 @@
-# GuestBook
+# Guestbook
 A way to do guestbook by using c# in CRUD
 
-## Database design
+## Database Design
 ```
  -- 留言板数据库SQL设计
  CREATE DATABASE `book` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
@@ -20,3 +20,10 @@ A way to do guestbook by using c# in CRUD
  -- 查询测试
  SELECT * FROM message_book;
 ```
+
+## Architecture Design
+> the project wpf1 is useless
+> the Page1 in wpf2 is useless
+* *MainWindow* is the program entrance
+* *Window1* function is that  add record in database
+over
