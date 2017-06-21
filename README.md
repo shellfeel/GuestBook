@@ -2,7 +2,7 @@
 A way to do guestbook by using c# in CRUD
 
 ## Database design
-'''
+```
  -- 留言板数据库SQL设计
  CREATE DATABASE `book` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
  USE book;
@@ -19,4 +19,4 @@ A way to do guestbook by using c# in CRUD
  INSERT INTO message_book(name,email,content) VALUES("熊小飞","980382256@qq.com","Hello World！！！");
  -- 查询测试
  SELECT * FROM message_book;
- '''
+```
