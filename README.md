@@ -28,5 +28,4 @@ A way to do guestbook by using c# in CRUD
 > 
 * *MainWindow* is the program entrance
 * *Window1* function is that  add record in database
-
-over
+Thanks for watching!
