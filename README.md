@@ -16,7 +16,7 @@ A way to do guestbook by using c# in CRUD
  	PRIMARY KEY(id)
  );
  -- insert the init data
- INSERT INTO message_book(name,email,content) VALUES("熊小飞","980382256@qq.com","Hello World！！！");
+ INSERT INTO message_book(name,email,content) VALUES("xxx","123456@gmail.com","Hello World！！！");
  -- query test
  SELECT * FROM message_book;
 ```
