@@ -23,10 +23,10 @@ A way to do guestbook by using c# in CRUD
 
 ## Architecture Design
 > the project wpf1 is useless
-> 
+>
 > the Page1 in wpf2 is useless
-> 
+>
 * *MainWindow* is the program entrance
 * *Window1* function is that  add record in database
 
-Thanks for watching!
+Thanks for watching!！
